@@ -2,7 +2,7 @@
 
 ## Software
  - Ubuntu / Mac OS 
- - Git 
+ - Git (https://learngitbranching.js.org/)
  - Slack
  - Hangouts
 
