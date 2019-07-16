@@ -4,6 +4,7 @@
  - Ubuntu / Mac OS 
  - Git 
  - Slack
+ - Hangouts
 
 ## Learning Resources
  - Stackoverflow
