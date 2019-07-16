@@ -12,3 +12,9 @@
  - Server and Client 
  - Frontend and Backend Programming 
  - 
+## Algorithms
+ ### Sort
+  - Binary Sort 
+  - Quick Sort
+  - Merge Sort
+ 
