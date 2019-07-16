@@ -2,8 +2,8 @@
 
 ## Software
  - Ubuntu / Mac OS 
- - Git 
- - Slack
+ - Git (https://learngitbranching.js.org/)
+ - Slack (https://21strokesworkspace.slack.com)
  - Hangouts
 
 ## Learning Resources
