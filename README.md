@@ -3,6 +3,7 @@
 ## Software
  - Ubuntu / Mac OS 
  - Git 
+ - Slack
 
 ## Learning Resources
  - Stackoverflow
