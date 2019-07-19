@@ -11,6 +11,7 @@
 
 ## Concepts
  - Internet
+ - Open Source
  - Server and Client 
  - Frontend and Backend Programming 
  - 
