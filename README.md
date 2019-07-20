@@ -22,4 +22,5 @@
   - Binary Sort 
   - Quick Sort
   - Merge Sort
+  - Heap Sort
  
