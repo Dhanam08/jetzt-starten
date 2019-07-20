@@ -13,6 +13,7 @@
  - Internet
  - Open Source
  - Server and Client 
+ - Machine code 
  - Frontend and Backend Programming 
  - 
 ## Algorithms
